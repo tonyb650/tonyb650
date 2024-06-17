@@ -1,0 +1,1 @@
+# Developer for Weddingwordsmith.com
