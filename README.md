@@ -23,6 +23,9 @@ My name is Anthony Brierly and I'm a software developer in Mountain View, Califo
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyb650&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3994e0&bg_color=1d1f21" alt="Anthony's Top Languages" />
 </a>
 
+<a href="https://github.com/tonyb650/time-manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tonyb650&repo=time-manager&title_color=ffffff&text_color=c9cacc&icon_color=3994e0&bg_color=1d1f21" />
+</a>
 <a href="https://github.com/tonyb650/game-finder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tonyb650&repo=game-finder&title_color=ffffff&text_color=c9cacc&icon_color=3994e0&bg_color=1d1f21" />
 </a>
