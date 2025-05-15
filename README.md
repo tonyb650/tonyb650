@@ -9,7 +9,7 @@ My name is Anthony Brierly and I'm a software developer in Mountain View, Califo
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=coffeescript&logoColor=white&color=3994e0)
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=3994e0)
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=3994e0)
-![](https://img.shields.io/badge/Tools-ExpressJS-informational?style=flat&color=3994e0)
+![](https://img.shields.io/badge/Tools-ExpressJS-informational?style=flat&logo=express&color=3994e0)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=3994e0)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3994e0)
 
