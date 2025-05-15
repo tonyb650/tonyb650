@@ -1,4 +1,10 @@
-<h1 align="center">Hello there! <img src="https://github.com/user-attachments/assets/18ca9ebc-6f55-4b53-94df-8e4975940f07"/></h1>
+<h1 align="center">Hello there! 
+![waving-hand](https://github.com/user-attachments/assets/a3853ca9-ce33-4400-91f7-0fafc3a7c1b0)
+</h1>
+
+
+  <img src="https://github.com/user-attachments/assets/18ca9ebc-6f55-4b53-94df-8e4975940f07"/>
+
 
 My name is Anthony Brierly and I'm a software developer in Mountain View, California. You can find me on <a href="https://www.linkedin.com/in/tony-brierly/"><img src="https://github.com/user-attachments/assets/ee5cef57-23f2-4611-bc87-d5e36ec507ab" width="20" alt="LinkedIn"/></a>.
 
