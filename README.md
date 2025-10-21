@@ -16,14 +16,14 @@ My name is Anthony Brierly and I'm a software developer in Mountain View, Califo
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3994e0)
 
 ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/tonyb650/tonyb650">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonyb650&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3994e0&bg_color=1d1f21" alt="Anthony's GitHub Stats" />
-</a>
-
-<a href="https://github.com/tonyb650/tonyb650">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyb650&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3994e0&bg_color=1d1f21" alt="Anthony's Top Languages" />
-</a>
+<p align="center">
+  <a href="https://github.com/tonyb650/tonyb650">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tonyb650&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3994e0&bg_color=1d1f21" alt="Anthony's GitHub Stats" />
+  </a>
+  <a href="https://github.com/tonyb650/tonyb650">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyb650&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3994e0&bg_color=1d1f21" alt="Anthony's Top Languages" />
+  </a>
+</p>
 
 <a href="https://github.com/tonyb650/time-manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tonyb650&repo=time-manager&title_color=ffffff&text_color=c9cacc&icon_color=3994e0&bg_color=1d1f21" />
