@@ -1,4 +1,4 @@
-![Snowy Mountains Title Image](./snowy_mountains_2.jpg)
+![Snowy Mountains Title Image](./snowy_mountains.jpg)
 
 <p align="center">
   My name is Anthony Brierly and I'm a software developer in Mountain View, California. You can find me on
